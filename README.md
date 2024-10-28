@@ -1,4 +1,10 @@
-Welcome to the Microservices Architecture Design course! In this course, we explore designing microservices architecture using industry-recognized design patterns, principles, and best practices. Starting from a basic monolithic architecture, we progressively evolve to event-driven microservices and serverless microservices architectures. The course takes a hands-on approach, ensuring practical learning with real-world patterns to design scalable, resilient, and highly available systems.
+## Mastering Microservices: A Journey from Monolith to Distributed Systems
+
+Welcome to the Microservices Architecture Design! 
+
+Here, we are going to explore designing microservices architecture using industry-recognized design patterns, principles, and best practices. Starting from a basic monolithic architecture, we progressively evolve to event-driven microservices and serverless microservices architectures. 
+
+I'll take a hands-on approach, ensuring practical learning with real-world patterns to design scalable, resilient, and highly available systems.
 
 ## Course Overview
 
